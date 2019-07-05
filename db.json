@@ -40,6 +40,16 @@
       "firstName": "Julia",
       "lastName": "Dark",
       "id": 5
+    },
+    {
+      "firstName": "Othman",
+      "lastName": "Assas",
+      "id": 6
+    },
+    {
+      "firstName": "Abderahman",
+      "lastName": "Sy",
+      "id": 7
     }
   ]
 }
